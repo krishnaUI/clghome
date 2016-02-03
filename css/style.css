@@ -1,0 +1,289 @@
+
+/* College Newsroom and Calendar of Events Section */
+
+#highlights-section {
+	width:100%;
+	padding: 0px;
+	background-color:#252525;
+	clear:both;
+	border-top-style:solid;
+	border-top-width: 2px;
+	border-color:#000;
+	border-bottom-style:solid;
+	border-bottom-width: 2px;
+	border-color:#000;
+}
+
+
+
+
+/* COntainer for Newsroom and Calendar modules*/
+#hilites-container {
+	width: 1165px;
+	margin-left: auto;
+	margin-right:auto;
+	display:block;
+	padding-top:5px;
+	padding-bottom: 10px;
+	position:relative;
+	background-color:#a1a1a1;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color:#000;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-right-color:#000;
+}
+
+#hilites-container h3{
+	font-family: 'Oswald', sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	color:#333;
+	margin-bottom: 8px;
+}
+
+@media only screen and (max-width: 1238px)
+{
+	#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+
+@media only screen and (max-width: 1031px)
+{
+	#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+
+
+@media only screen and (max-width: 1031px) {
+#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+
+@media only screen and (max-width: 800px) {
+#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+	  
+@media only screen and (max-width: 600px) {
+#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;}}
+
+@media only screen and (max-width: 480px) {
+#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+
+@media only screen and (max-width: 320px) {
+#hilites-container {
+		width: 95%;
+		padding: 10px 0 10px 0;} }
+
+/* College Newsroom*/
+
+
+#newsroom {
+	width: 350px;
+	background-color:#fff;
+	font-size:14px;
+	padding: 10px;
+	border-style:solid;
+	border-top-color:#f76e00;
+	border-top-width: 8px;
+	border-right-color:#5f5f5f;
+	border-right-width: 1px;
+	border-bottom-color:#5f5f5f;
+	border-bottom-width: 1px;
+	border-left-color:#5f5f5f;
+	border-left-width: 1px;
+	display:block;
+	margin: 10px;
+	text-align:center;
+}
+
+@media only screen and (max-width: 1235px) {
+#newsroom {
+		width: 28%;
+		padding: 2 px;
+		font-size:12px;} }
+
+@media only screen and (max-width: 1024px) {
+#newsroom {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;
+		float:none;} }
+
+@media only screen and (max-width: 800px) {
+#newsroom {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+	  
+@media only screen and (max-width: 600px) {
+ #newsroom {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;}}
+
+@media only screen and (max-width: 480px) {
+#newsroom {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+
+@media only screen and (max-width: 320px) {
+#newsroom {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+		
+		
+/* College Calendar of Events Section */
+
+
+#applynow {
+	width: 350px;
+	background-color:#fff;
+	font-size:14px;
+	padding: 10px;
+	border-style:solid;
+	border-top-color:#365c72;
+	border-top-width: 8px;
+	border-right-color:#5f5f5f;
+	border-right-width: 1px;
+	border-bottom-color:#5f5f5f;
+	border-bottom-width: 1px;
+	border-left-color:#5f5f5f;
+	border-left-width: 1px;
+	display:block;
+	margin-top: -189px;
+	margin-right: 10px;
+	margin-left: 397px;
+	text-align:center;
+	float:left;
+}
+
+
+@media only screen and (max-width: 1235px) {
+#applynow {
+		width: 28%;
+		padding: 2 px;
+		font-size:12px;
+		margin-left: 35%;} }
+
+
+@media only screen and (max-width: 1024px) {
+#applynow {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;
+		float:none;} }
+
+@media only screen and (max-width: 800px) {
+#applynow {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+	  
+@media only screen and (max-width: 600px) {
+#applynow {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;}}
+
+@media only screen and (max-width: 480px) {
+#applynow {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+
+@media only screen and (max-width: 320px) {
+#applynow {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }			
+		
+		
+/* college Calendar of Events Section */
+
+
+#eventcalendar {
+	width: 350px;
+	background-color:#fff;
+	font-size:14px;
+	padding: 10px;
+	border-style:solid;
+	border-top-color:#8ba843;
+	border-top-width: 8px;
+	border-right-color:#5f5f5f;
+	border-right-width: 1px;
+	border-bottom-color:#5f5f5f;
+	border-bottom-width: 1px;
+	border-left-color:#5f5f5f;
+	border-left-width: 1px;
+	display:block;
+	margin-top: -189px;
+	margin-right: 10px;
+	text-align:center;
+	float: right;
+}
+
+
+@media only screen and (max-width: 1235px) {
+#eventcalendar {
+		width: 28%;
+		padding: 2 px;
+		font-size:12px;} }
+
+
+
+@media only screen and (max-width: 1024px) {
+#eventcalendar {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;
+		float:none;} }
+
+@media only screen and (max-width: 800px) {
+#eventcalendar {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+	  
+@media only screen and (max-width: 600px) {
+#eventcalendar {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;}}
+
+@media only screen and (max-width: 480px) {
+ #eventcalendar {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }
+
+@media only screen and (max-width: 320px) {
+#eventcalendar {
+		width: 90%;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top: 10px;} }			
+
+
